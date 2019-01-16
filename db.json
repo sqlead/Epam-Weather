@@ -1,0 +1,94 @@
+{
+  "weather": [
+    {
+      "date": 1547683200000,
+      "night": "0",
+      "day": "+4",
+      "cloudiness": "Облачно",
+      "snow": false,
+      "rain": true
+    },
+    {
+      "date": 1547769600000,
+      "night": "0",
+      "day": "+1",
+      "cloudiness": "Облачно",
+      "snow": true,
+      "rain": true
+    },
+    {
+      "date": 1547856000000,
+      "night": "-1",
+      "day": "+3",
+      "cloudiness": "Облачно",
+      "snow": false,
+      "rain": false
+    },
+    {
+      "date": 1547942400000,
+      "night": "-3",
+      "day": "0",
+      "cloudiness": "Облачно",
+      "snow": true,
+      "rain": false
+    },
+    {
+      "date": 1548028800000,
+      "night": "-2",
+      "day": "0",
+      "cloudiness": "Ясно",
+      "snow": false,
+      "rain": false
+    },
+    {
+      "date": 1548115200000,
+      "night": "-5",
+      "day": "+2",
+      "cloudiness": "Облачно",
+      "snow": false,
+      "rain": true
+    },
+    {
+      "date": 1548201600000,
+      "night": "-2",
+      "day": "+2",
+      "cloudiness": "Ясно",
+      "snow": false,
+      "rain": true
+    },
+    {
+      "date": 1548288000000,
+      "night": "-1",
+      "day": "+4",
+      "cloudiness": "Облачно",
+      "snow": false,
+      "rain": false
+    },
+    {
+      "date": 1548374400000,
+      "night": "-2",
+      "day": "+4",
+      "cloudiness": "Облачно",
+      "snow": false,
+      "rain": true
+    },
+    {
+      "date": 1548460800000,
+      "night": "0",
+      "day": "+3",
+      "cloudiness": "Облачно",
+      "snow": false,
+      "rain": true
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
