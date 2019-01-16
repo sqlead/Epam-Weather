@@ -23,4 +23,4 @@ json-server db.json
 * Open `index.html` in a browser
 * To see weather data, go to http://localhost:3000/weather
 
-![alt text](https://github.com/Squarelead/Weather-app-for-Epam/blob/master/Screenshot.jpg)
+![alt text](https://github.com/sqlead/Epam-Weather/blob/master/Screenshot.jpg)
